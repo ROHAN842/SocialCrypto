@@ -13,10 +13,14 @@
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/SocialCrypto)
 
 ## Overview 👀
-<img src="images/Peercoder11.jpg">
-<img src="images/Peercoder12.jpg">
-<img src="images/videochat5.jpg">
-<img src="images/videochat2.jpg">
+<img src="images/Images1.png">
+<img src="images/Images2.png">
+<img src="images/Images3.png">
+<img src="images/Images4.png">
+<img src="images/Images5.png">
+<img src="images/Images6.png">
+<img src="images/Images7.png">
+<img src="images/Images8.png">
 
 
 - A crowdfunding platform with a vision to create a social impact 🤲
